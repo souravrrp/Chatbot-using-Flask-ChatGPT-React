@@ -1,0 +1,12 @@
+.text {
+    color: white;
+    padding: 15px;
+    font-family: Sans-Serif;
+    text-align: center;
+  }
+.submit {
+    color: rgb(5, 23, 36);
+    padding: 15px;
+    font-family: Sans-Serif;
+    text-align: center;
+  }
